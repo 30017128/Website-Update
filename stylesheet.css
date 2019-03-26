@@ -36,8 +36,14 @@ section {
 footer
 {
 	width: 85%;
+	margin-left: 7.5%;
 	position: fixed;
+	
 	bottom: 0;
+	left: 0;
+	background-color: silver;
+    color: white;
+    text-align: center;
 	
 	
 }
@@ -66,8 +72,10 @@ content
 {
 	
 	width: 90%;
-	margin-left: 10%;
-	background-color: blue;
+	margin-left: 5%;
+	background-color: silver;
+	
+		
 	
 	
 		
